@@ -1,2 +1,2 @@
 # Windows_fun
-Windows fun scripts
+In this repository are fun windows scripts
